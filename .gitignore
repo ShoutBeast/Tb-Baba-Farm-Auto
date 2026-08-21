@@ -12,3 +12,4 @@ venv/
 models/
 *.onnx
 .DS_Store
+task/
