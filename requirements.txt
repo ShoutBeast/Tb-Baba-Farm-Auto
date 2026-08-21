@@ -1,0 +1,7 @@
+uiautodev==0.14.0
+uiautomator2==3.5.2
+ddddocr==1.5.6
+rapidocr>=3.9.0
+onnxruntime
+# paddleocr==2.10.0
+# paddlepaddle==2.6.2
